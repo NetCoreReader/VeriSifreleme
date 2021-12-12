@@ -1,0 +1,8 @@
+C:\Users\RBS\Desktop\VeriSifreleme\VeriSifreleme\bin\Debug\VeriSifreleme.exe
+C:\Users\RBS\Desktop\VeriSifreleme\VeriSifreleme\bin\Debug\VeriSifreleme.pdb
+C:\Users\RBS\Desktop\VeriSifreleme\VeriSifreleme\obj\Debug\VeriSifreleme.csprojResolveAssemblyReference.cache
+C:\Users\RBS\Desktop\VeriSifreleme\VeriSifreleme\obj\Debug\VeriSifreleme.Form1.resources
+C:\Users\RBS\Desktop\VeriSifreleme\VeriSifreleme\obj\Debug\VeriSifreleme.Properties.Resources.resources
+C:\Users\RBS\Desktop\VeriSifreleme\VeriSifreleme\obj\Debug\VeriSifreleme.csproj.GenerateResource.Cache
+C:\Users\RBS\Desktop\VeriSifreleme\VeriSifreleme\obj\Debug\VeriSifreleme.exe
+C:\Users\RBS\Desktop\VeriSifreleme\VeriSifreleme\obj\Debug\VeriSifreleme.pdb
